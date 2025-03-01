@@ -1,6 +1,4 @@
 # PNU-25-1-Software-Design-and-Experiment
-
-# 25-1 소프트웨어 설계 및 실험
 이 저장소는 25-1 PNU 소프트웨어 설계 및 실험 수업의 Kotlin 기반 Android 프로그래밍 실습을 위한 템플릿 및 예제 코드가 포함된 Repository입니다.
 
 ## 📌 개요
