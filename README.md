@@ -8,15 +8,17 @@
 
 ## 📁 프로젝트 구조
 ~~~ bash
-android-programming-25-1
+PNU-25-1-Software-Design-and-Experiment
 ├── starter/         # 초기 프로젝트 템플릿
 │   ├── README.md  
 │   ├── week-1/
-│   ├── week-2/ 
+│   ├── week-2/
+│   ├── ... 
 ├── solution/        # 정답 코드
 │   ├── README.md  
 │   ├── week-1/
-│   ├── week-2/ 
+│   ├── week-2/
+│   ├── ... 
 ├── docs/            # 수업 자료 (PDF, 슬라이드)
 ├── .github/
 │   ├── workflows/   # GitHub Actions 자동화
